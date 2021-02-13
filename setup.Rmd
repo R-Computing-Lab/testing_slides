@@ -66,7 +66,7 @@ layout: true
   
 <div class="my-footer">
 <span>
-<a href="https://DataScience4Psych.github.io/DataScience4Psych/" target="_blank">Data Science for Psychologists</a>
+<a href="https://r-computing-lab.github.io/psychtesting//" target="_blank">Psychological Testing</a>
 </span>
 </div> 
 
