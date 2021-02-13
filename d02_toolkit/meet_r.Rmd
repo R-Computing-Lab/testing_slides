@@ -71,35 +71,6 @@ class: middle
 
 ---
 
-```{r echo=FALSE, out.width="100%"}
-knitr::include_graphics("img/whole-game-01.png")
-```
-
----
-
-```{r echo=FALSE, out.width="100%"}
-knitr::include_graphics("img/whole-game-02.png")
-```
-
----
-
-```{r echo=FALSE, out.width="100%"}
-knitr::include_graphics("img/whole-game-03.png")
-```
-
----
-
-```{r echo=FALSE, out.width="100%"}
-knitr::include_graphics("img/whole-game-04.png")
-```
-
----
-
-class: middle
-
-# R and RStudio
-
----
 
 ## What is R/RStudio?
 
